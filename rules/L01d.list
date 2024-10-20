@@ -11,7 +11,6 @@ DOMAIN,cdn.jsdelivr.net
 DOMAIN,certs.apple.com
 DOMAIN,clientservices.googleapis.com
 DOMAIN,deo.shopeemobile.com
-DOMAIN,errlog.umeng.com
 DOMAIN,fairplay.l.qq.com
 DOMAIN,gdmf.apple.com
 DOMAIN,gsa.apple.com
@@ -24,6 +23,7 @@ DOMAIN,img.kuaikanzy.net
 DOMAIN,img.liangzipic.com
 DOMAIN,init.ess.apple.com
 DOMAIN,livew.l.qq.com
+DOMAIN,mesu.apple.com
 DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
 DOMAIN,ocsp2.apple.com
