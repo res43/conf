@@ -7,18 +7,18 @@ DOMAIN,ad.10010.com
 DOMAIN,ad.12306.cn
 DOMAIN,analytics.95516.com
 DOMAIN,cdn.jsdelivr.net
-DOMAIN,clientservices.googleapis.com
-DOMAIN,deo.shopeemobile.com
-DOMAIN,fairplay.l.qq.com
-DOMAIN,img.bfzypic.com
-DOMAIN,img.ffzypic.com
-DOMAIN,img.kuaikanzy.net
-DOMAIN,img.liangzipic.com
-DOMAIN,livew.l.qq.com
-DOMAIN,msg.umeng.com
-DOMAIN,msg.umengcloud.com
-DOMAIN,vd.l.qq.com
-DOMAIN,vi.l.qq.com
-DOMAIN-SUFFIX,digicert.com
-DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
-DOMAIN-KEYWORD,ctc.qzs.qzone.qq.com
+# DOMAIN,clientservices.googleapis.com
+# DOMAIN,deo.shopeemobile.com
+# DOMAIN,fairplay.l.qq.com
+# DOMAIN,img.bfzypic.com
+# DOMAIN,img.ffzypic.com
+# DOMAIN,img.kuaikanzy.net
+# DOMAIN,img.liangzipic.com
+# DOMAIN,livew.l.qq.com
+# DOMAIN,msg.umeng.com
+# DOMAIN,msg.umengcloud.com
+# DOMAIN,vd.l.qq.com
+# DOMAIN,vi.l.qq.com
+# DOMAIN-SUFFIX,digicert.com
+# DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
+# DOMAIN-KEYWORD,ctc.qzs.qzone.qq.com
