@@ -5,7 +5,10 @@
 # 【Ads】拒绝
 # Amazon
 DOMAIN,adtago.s3.amazonaws.com
+DOMAIN,advertising-api-eu.amazon.com
 DOMAIN,advice-ads.s3.amazonaws.com
+DOMAIN,affiliationjs.s3.amazonaws.com
+DOMAIN,amazonaax.com
 DOMAIN,analytics.s3.amazonaws.com
 DOMAIN,analyticsengine.s3.amazonaws.com
 # Google Ads
