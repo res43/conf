@@ -161,10 +161,12 @@ DOMAIN,data.ads.oppomobile.com
 # Xiaomi
 DOMAIN,api.ad.xiaomi.com
 DOMAIN,data.mistat.india.xiaomi.com
+DOMAIN,data.mistat.intl.xiaomi.com
 DOMAIN,data.mistat.rus.xiaomi.com
 DOMAIN,data.mistat.xiaomi.com
 DOMAIN,sdkconfig.ad.intl.xiaomi.com
 DOMAIN,sdkconfig.ad.xiaomi.com
+DOMAIN,tracking.india.miui.com
 DOMAIN,tracking.rus.miui.com
 # OnePlus
 DOMAIN,click.oneplus.cn
