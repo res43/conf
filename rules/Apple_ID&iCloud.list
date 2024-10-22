@@ -1,12 +1,19 @@
 # NAME: Apple ID & iCloud
 # UPDATED: 2024-10-22
 
-##【Apple ID】
-## AppleID
+##################################################
+
+##【Apple账户】
+# “设置”和“系统偏好设置”中的 Apple 账户认证
+DOMAIN,account.apple.com
 DOMAIN,appleid.apple.com
+# CDN
 DOMAIN,appleid.cdn-apple.com
+# Apple 账户认证
 DOMAIN,gsa.apple.com
 DOMAIN,idmsa.apple.com
+
+##################################################
 
 ##【iCloud】
 ## iCloud
@@ -72,6 +79,8 @@ DOMAIN,mask.apple-dns.net
 DOMAIN-SUFFIX,mask-h2.icloud.com
 DOMAIN-SUFFIX,mask.icloud.com
 
+##################################################
+
 ##【Apple Music】
 DOMAIN,aod-ssl.itunes.apple.com
 DOMAIN,aod.itunes.apple.com
@@ -84,6 +93,8 @@ DOMAIN-SUFFIX,blobstore.apple.com
 DOMAIN-KEYWORD,music.apple.com
 USER-AGENT,Music*
 
+##################################################
+
 ##【Apple TV】部署了全球CDN，大陆没有节点。
 DOMAIN,hls-amt.itunes.apple.com
 DOMAIN,hls.itunes.apple.com
@@ -95,8 +106,13 @@ DOMAIN-SUFFIX,tv.apple.com
 USER-AGENT,AppleTV*
 USER-AGENT,com.apple.tv*
 
+##################################################
+
 ##【Software】
 ## Rosetta 2 更新（仅macOS）
 DOMAIN,configuration.apple.com
 ## Weather
 DOMAIN,weather-analytics-events.apple.com
+
+##################################################
+
