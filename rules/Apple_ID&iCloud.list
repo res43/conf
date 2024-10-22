@@ -96,3 +96,9 @@ DOMAIN,uts-api.itunes.apple.com
 DOMAIN-SUFFIX,tv.apple.com
 USER-AGENT,AppleTV*
 USER-AGENT,com.apple.tv*
+
+##【Software】
+## Rosetta 2 更新（仅macOS）
+DOMAIN,configuration.apple.com
+## Weather
+DOMAIN,weather-analytics-events.apple.com
