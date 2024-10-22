@@ -1,4 +1,5 @@
-## AppleAPI
+# NAME: AppleAPI
+# UPDATED: 2024-10-22
 
 ## 一些 com.apple.appstored* 会连接的 API（优先级高）
 DOMAIN,guzzoni.apple.com
