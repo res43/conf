@@ -4,6 +4,7 @@
 ##【Apple Global CDN】
 ## iOS App Store
 DOMAIN,iosapps.itunes.apple.com
+# USER-AGENT,com.apple.appstored*
 
 ## Mac App Store
 DOMAIN,osxapps.itunes.apple.com
