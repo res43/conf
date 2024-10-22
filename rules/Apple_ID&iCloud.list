@@ -16,18 +16,22 @@ DOMAIN,idmsa.apple.com
 ##################################################
 
 ##【iCloud】
-## iCloud
+# iCloud 服务
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-livephotoskit.com
-DOMAIN-SUFFIX,applemx-icloud.com
-DOMAIN-SUFFIX,apzones.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,gc.apple.com
-DOMAIN-SUFFIX,icloud-content.com
-DOMAIN-SUFFIX,icloud-isupport.com
-DOMAIN-SUFFIX,icloud.apple.com
-DOMAIN-SUFFIX,icloud.ch
 DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud.apple.com
+DOMAIN-SUFFIX,icloud-content.com
+# iWork 文稿
+DOMAIN-SUFFIX,iwork.apple.com
+# iCloud 专用代理（iCloudPrivateRelay）
+DOMAIN-SUFFIX,mask-h2.icloud.com
+DOMAIN-SUFFIX,mask.icloud.com
+DOMAIN,mask-api.icloud.com
+# 他国 iCloud
+DOMAIN-SUFFIX,icloud.ch
 DOMAIN-SUFFIX,icloud.de
 DOMAIN-SUFFIX,icloud.ee
 DOMAIN-SUFFIX,icloud.fi
@@ -45,39 +49,38 @@ DOMAIN-SUFFIX,icloud.se
 DOMAIN-SUFFIX,icloud.si
 DOMAIN-SUFFIX,icloud.sk
 DOMAIN-SUFFIX,icloud.vn
-DOMAIN-SUFFIX,icloudads.net
-DOMAIN-SUFFIX,icloudbox.net
-DOMAIN-SUFFIX,icloudbrowser.net
-DOMAIN-SUFFIX,icloude.com
-DOMAIN-SUFFIX,icloudhome.com
-DOMAIN-SUFFIX,icloudmail.net
-DOMAIN-SUFFIX,icloudmusic.net
-DOMAIN-SUFFIX,icloudnet.net
-DOMAIN-SUFFIX,icloudo.com
-DOMAIN-SUFFIX,icloudo.de
-DOMAIN-SUFFIX,icloudo.net
-DOMAIN-SUFFIX,icloudos.de
-DOMAIN-SUFFIX,icloudos.net
-DOMAIN-SUFFIX,icloudpay.net
-DOMAIN-SUFFIX,icloudsecure.net
-DOMAIN-SUFFIX,icloudsetup.com
-DOMAIN-SUFFIX,ios-icloud.com
-DOMAIN-SUFFIX,iwork.apple.com
-# 包含了【Apple Mail】：DOMAIN-SUFFIX,mail.me.com
-DOMAIN-SUFFIX,me.com
-DOMAIN-SUFFIX,myicloud.net
-DOMAIN-SUFFIX,mylcloud.net
-DOMAIN-SUFFIX,www-cdn.icloud.com.akadns.net
-DOMAIN-SUFFIX,wwwicloud.com
-DOMAIN-KEYWORD,icloud.com.akadns.net
 
+## 不明
+# DOMAIN-SUFFIX,applemx-icloud.com
+# DOMAIN-SUFFIX,icloud-isupport.com
+# DOMAIN-SUFFIX,icloudads.net
+# DOMAIN-SUFFIX,icloudbox.net
+# DOMAIN-SUFFIX,icloudbrowser.net
+# DOMAIN-SUFFIX,icloude.com
+# DOMAIN-SUFFIX,icloudhome.com
+# DOMAIN-SUFFIX,icloudmail.net
+# DOMAIN-SUFFIX,icloudmusic.net
+# DOMAIN-SUFFIX,icloudnet.net
+# DOMAIN-SUFFIX,icloudo.com
+# DOMAIN-SUFFIX,icloudo.de
+# DOMAIN-SUFFIX,icloudo.net
+# DOMAIN-SUFFIX,icloudos.de
+# DOMAIN-SUFFIX,icloudos.net
+# DOMAIN-SUFFIX,icloudpay.net
+# DOMAIN-SUFFIX,icloudsecure.net
+# DOMAIN-SUFFIX,icloudsetup.com
+# DOMAIN-SUFFIX,ios-icloud.com
+# 包含了【Apple Mail】：DOMAIN-SUFFIX,mail.me.com
+# DOMAIN-SUFFIX,me.com
+# DOMAIN-SUFFIX,myicloud.net
+# DOMAIN-SUFFIX,mylcloud.net
+# DOMAIN-SUFFIX,www-cdn.icloud.com.akadns.net
+# DOMAIN-SUFFIX,wwwicloud.com
+# DOMAIN-KEYWORD,icloud.com.akadns.net
 ## iCloudPrivateRelay
-DOMAIN,mask-api.fe.apple-dns.net
-DOMAIN,mask-api.icloud.com
-DOMAIN,mask-t.apple-dns.net
-DOMAIN,mask.apple-dns.net
-DOMAIN-SUFFIX,mask-h2.icloud.com
-DOMAIN-SUFFIX,mask.icloud.com
+# DOMAIN,mask-api.fe.apple-dns.net
+# DOMAIN,mask-t.apple-dns.net
+# DOMAIN,mask.apple-dns.net
 
 ##################################################
 
