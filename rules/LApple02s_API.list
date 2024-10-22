@@ -1,5 +1,6 @@
 # NAME: AppleAPI
 # UPDATED: 2024-10-22
+## 购买、发起下载、iCloud 同步（含上传和下载）、Siri
 
 ## 一些 com.apple.appstored* 会连接的 API（优先级高）
 DOMAIN,guzzoni.apple.com
