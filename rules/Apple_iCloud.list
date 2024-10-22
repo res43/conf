@@ -2,6 +2,7 @@
 # UPDATED: 2024-10-22
 
 ##【iCloud】
+## iCloud
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-icloud.cn
 DOMAIN-SUFFIX,apple-livephotoskit.com
@@ -61,7 +62,7 @@ DOMAIN-SUFFIX,www-cdn.icloud.com.akadns.net
 DOMAIN-SUFFIX,wwwicloud.com
 DOMAIN-KEYWORD,icloud.com.akadns.net
 
-##【iCloudPrivateRelay】
+## iCloudPrivateRelay
 DOMAIN,mask-api.fe.apple-dns.net
 DOMAIN,mask-api.icloud.com
 DOMAIN,mask-t.apple-dns.net
