@@ -1,7 +1,7 @@
 # NAME: Apple Update
 # UPDATED: 2024-10-22
 
-#【Apple更新】
+##【Apple更新】
 ## iOS/iPadOS 企业证书失效
 DOMAIN-SUFFIX,ocsp-lb.apple.com.akadns.net
 DOMAIN-SUFFIX,ocsp.apple.com
