@@ -37,7 +37,7 @@ DOMAIN,downloaddispatch.itunes.apple.com
 ## iCloud CN
 DOMAIN-SUFFIX,apple-icloud.cn
 DOMAIN-SUFFIX,icloud-apple.cn
-# 包含了mail.icloud.com.cn
+# 包含了【Apple Mail】：DOMAIN-SUFFIX,mail.icloud.com.cn
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,icloud.net.cn
 DOMAIN-SUFFIX,icloudapple.cn
