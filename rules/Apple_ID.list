@@ -5,7 +5,6 @@ DOMAIN,gsa.apple.com
 DOMAIN,idmsa.apple.com
 
 ## Apple Mail
-DOMAIN-SUFFIX,mail.icloud.com.cn
 DOMAIN-SUFFIX,mail.me.com
 
 ## Apple Music
