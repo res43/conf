@@ -3,3 +3,15 @@ DOMAIN,appleid.apple.com
 DOMAIN,appleid.cdn-apple.com
 DOMAIN,gsa.apple.com
 DOMAIN,idmsa.apple.com
+
+## Apple Music
+DOMAIN,aod-ssl.itunes.apple.com
+DOMAIN,aod.itunes.apple.com
+DOMAIN,audio-ssl.itunes.apple.com
+DOMAIN,audio.itunes.apple.com
+DOMAIN,mvod.itunes.apple.com
+DOMAIN,streamingaudio.itunes.apple.com
+DOMAIN-SUFFIX,applemusic.com
+DOMAIN-SUFFIX,blobstore.apple.com
+DOMAIN-SUFFIX,music.apple.com
+USER-AGENT,Music*
