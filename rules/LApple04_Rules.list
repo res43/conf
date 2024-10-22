@@ -1,4 +1,5 @@
-## AppleRules.list
+# NAME: AppleRules
+# UPDATED: 2024-10-22
 
 ##Apple 直连
 USER-AGENT,*com.apple.mobileme.fmip1
