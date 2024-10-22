@@ -29,13 +29,13 @@ DOMAIN-SUFFIX,service.ess.apple.com
 DOMAIN-SUFFIX,init.ess.apple.com
 DOMAIN-SUFFIX,static.ess.apple.com
 
-## 推送服务器
-DOMAIN-SUFFIX,gateway.sandbox.push.apple.com
-DOMAIN-SUFFIX,gateway.push.apple.com
-
 ## Mac OS 的 App Store 服务器
 DOMAIN-SUFFIX,swscan.apple.com
 DOMAIN-SUFFIX,swquery.apple.com
+
+## 推送服务器
+# DOMAIN-SUFFIX,gateway.sandbox.push.apple.com
+# DOMAIN-SUFFIX,gateway.push.apple.com
 
 ## Push
 # IPv4
