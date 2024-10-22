@@ -33,7 +33,8 @@ DOMAIN,app-site-association.cdn-apple.com
 DOMAIN,download.developer.apple.com
 DOMAIN,downloaddispatch.itunes.apple.com
 
-##【iCloud CN】
+##【iCloud】
+## iCloud CN
 DOMAIN-SUFFIX,apple-icloud.cn
 DOMAIN-SUFFIX,icloud-apple.cn
 DOMAIN-SUFFIX,icloud.com.cn
