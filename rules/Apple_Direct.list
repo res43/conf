@@ -33,12 +33,21 @@ DOMAIN,app-site-association.cdn-apple.com
 DOMAIN,download.developer.apple.com
 DOMAIN,downloaddispatch.itunes.apple.com
 
+
+##################################################
+
 ##【CN】
+# 中国大陆的 iCloud 服务
+DOMAIN-SUFFIX,apzones.com
+DOMAIN-SUFFIX,icloud.com.cn
+
+##################################################
+
+
+
 ## iCloud CN
 DOMAIN-SUFFIX,apple-icloud.cn
 DOMAIN-SUFFIX,icloud-apple.cn
-# 包含了【Apple Mail】：DOMAIN-SUFFIX,mail.icloud.com.cn
-DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,icloud.net.cn
 DOMAIN-SUFFIX,icloudapple.cn
 DOMAIN-SUFFIX,appleicloud.cn
