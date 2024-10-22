@@ -56,6 +56,7 @@ DOMAIN-SUFFIX,icloudsecure.net
 DOMAIN-SUFFIX,icloudsetup.com
 DOMAIN-SUFFIX,ios-icloud.com
 DOMAIN-SUFFIX,iwork.apple.com
+# 包含了【Apple Mail】：DOMAIN-SUFFIX,mail.me.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,myicloud.net
 DOMAIN-SUFFIX,mylcloud.net
@@ -70,9 +71,6 @@ DOMAIN,mask-t.apple-dns.net
 DOMAIN,mask.apple-dns.net
 DOMAIN-SUFFIX,mask-h2.icloud.com
 DOMAIN-SUFFIX,mask.icloud.com
-
-##【Apple Mail】
-DOMAIN-SUFFIX,mail.me.com
 
 ##【Apple Music】
 DOMAIN,aod-ssl.itunes.apple.com
