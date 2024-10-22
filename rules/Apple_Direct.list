@@ -40,18 +40,17 @@ DOMAIN,downloaddispatch.itunes.apple.com
 # 中国大陆的 iCloud 服务
 DOMAIN-SUFFIX,apzones.com
 DOMAIN-SUFFIX,icloud.com.cn
+# Other
+DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-KEYWORD,-cn.apple.com
+
+## 不明
+# iCloud CN
+# DOMAIN-SUFFIX,apple-icloud.cn
+# DOMAIN-SUFFIX,icloud-apple.cn
+# DOMAIN-SUFFIX,icloud.net.cn
+# DOMAIN-SUFFIX,icloudapple.cn
+# DOMAIN-SUFFIX,appleicloud.cn
 
 ##################################################
 
-
-
-## iCloud CN
-DOMAIN-SUFFIX,apple-icloud.cn
-DOMAIN-SUFFIX,icloud-apple.cn
-DOMAIN-SUFFIX,icloud.net.cn
-DOMAIN-SUFFIX,icloudapple.cn
-DOMAIN-SUFFIX,appleicloud.cn
-
-## Other
-DOMAIN-SUFFIX,apple.com.cn
-DOMAIN-KEYWORD,-cn.apple.com
