@@ -34,11 +34,8 @@ DOMAIN-SUFFIX,static.ess.apple.com
 DOMAIN-SUFFIX,swscan.apple.com
 DOMAIN-SUFFIX,swquery.apple.com
 
-## 推送服务器
-# DOMAIN-SUFFIX,gateway.sandbox.push.apple.com
-# DOMAIN-SUFFIX,gateway.push.apple.com
-
-## Push
+## 推送通知
+DOMAIN-SUFFIX,push.apple.com
 # IPv4
 IP-CIDR,17.249.0.0/16
 IP-CIDR,17.252.0.0/16
