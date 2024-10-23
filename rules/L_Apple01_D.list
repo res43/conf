@@ -38,7 +38,9 @@ DOMAIN,downloaddispatch.itunes.apple.com
 
 ##################################################
 
-##【推送通知】
+##【设备管理】
+
+## 推送通知
 # 域名
 # 包含了courier.push.apple.com
 DOMAIN-SUFFIX,push.apple.com
