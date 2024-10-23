@@ -1,6 +1,6 @@
 ##################################################
 
-#【证书验证】
+##【证书验证】
 DOMAIN,certs.apple.com
 DOMAIN,crl.apple.com
 DOMAIN,ocsp.apple.com
@@ -8,6 +8,13 @@ DOMAIN,ocsp2.apple.com
 DOMAIN,valid.apple.com
 DOMAIN-SUFFIX,digicert.com
 USER-AGENT,com.apple.trustd*
+
+##################################################
+
+##【iCloudPrivateRelay】iCloud 专用代理
+DOMAIN-SUFFIX,mask-h2.icloud.com
+DOMAIN-SUFFIX,mask.icloud.com
+DOMAIN,mask-api.icloud.com
 
 ##################################################
 
@@ -24,9 +31,10 @@ USER-AGENT,com.apple.tv*
 
 ##################################################
 
-##【iCloudPrivateRelay】iCloud 专用代理
-DOMAIN-SUFFIX,mask-h2.icloud.com
-DOMAIN-SUFFIX,mask.icloud.com
-DOMAIN,mask-api.icloud.com
+#【Apple News】
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,news-client-search.apple.com
+USER-AGENT,AppleNews*
+USER-AGENT,com.apple.news*
 
 ##################################################
