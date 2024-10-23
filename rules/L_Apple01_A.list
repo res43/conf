@@ -162,12 +162,6 @@ DOMAIN,testflight.apple.com
 
 ######################################################
 
-##【兜底】
-DOMAIN-SUFFIX,apple.com
-DOMAIN-KEYWORD,cdn-apple.com
-
-######################################################
-
 ##【不明】
 # DOMAIN-SUFFIX,aaplimg.com
 # DOMAIN-SUFFIX,apple.co
