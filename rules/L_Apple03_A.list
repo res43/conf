@@ -140,8 +140,7 @@ DOMAIN-SUFFIX,gateway.push.apple.com
 
 ######################################################
 
-## 其他
-
+##【其他】
 # iMessage
 DOMAIN-SUFFIX,ess.apple.com
 
@@ -161,7 +160,15 @@ DOMAIN,developer.apple.com
 # Testflight
 DOMAIN,testflight.apple.com
 
-## 不明
+######################################################
+
+##【兜底】
+DOMAIN-SUFFIX,apple.com
+DOMAIN-KEYWORD,cdn-apple.com
+
+######################################################
+
+##【不明】
 # DOMAIN-SUFFIX,aaplimg.com
 # DOMAIN-SUFFIX,apple.co
 # DOMAIN-SUFFIX,itunes.com
