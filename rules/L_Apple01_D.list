@@ -60,6 +60,9 @@ DOMAIN,gdmf.apple.com
 ##################################################
 
 ##【CN】
+## CDN
+DOMAIN-SUFFIX,apple.com.w.cdngslb.com
+
 ## 中国。证书验证
 DOMAIN,ocsp.digicert.cn
 
