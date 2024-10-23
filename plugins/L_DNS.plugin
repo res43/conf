@@ -1,0 +1,102 @@
+#!name = 自定义DNS
+#!desc = 这是自用的DNS插件。实测：不用额外添加DNS解析，使用本地设置的即可。
+#!author= res43
+#!date = 2024-10-20
+#!system = iOS,iPadOS,tvOS
+#!system_version = 15
+#!loon_version = 3.2.1(372)
+#!tag = DNS
+
+[Host]
+##【IPv6】
+# IPv6 Localhost
+ip6-localhost = ::1
+# IPv6 Loopback
+ip6-loopback = ::1
+# IPv6 Link-Local
+ip6-localnet = fe00::0
+# IPv6 Multicast
+ip6-mcastprefix = ff00::0
+# IPv6 All Nodes
+ip6-allnodes = ff02::1
+# IPv6 All Routers
+ip6-allrouters = ff02::2
+# IPv6 All Hosts
+ip6-allhosts = ff02::3
+
+##【路由器】
+# M2M routers at MiFi Hotspot
+_hotspot_.m2m = server:system
+
+# Ubiquiti
+*.id.ui.direct = server:system
+unifi.local = server:system
+amplifi.lan = server:system
+
+# 迅捷 FAST Router
+falogin.cn = server:system
+
+# 极路由 HiWiFi Router
+hiwifi.com = server:system
+
+# csl Wi-Fi
+hotspot.cslwifi.com = server:system
+
+# Aurba Router
+instant.arubanetworks.com = server:system
+
+# 磊科 Netcore Router
+leike.cc = server:system
+
+# Linksys Router
+LinksysSmartWiFi.com = server:system
+www.LinksysSmartWiFi.com = server:system
+
+# 华为 Huawei Router
+mediarouter.home = server:system
+
+# 水星 MERCURY Router
+melogin.cn = server:system
+
+# 小米 Mi WiFi Router
+miwifi.com = server:system
+www.miwifi.com = server:system
+
+# Linksys Router
+myrouter.local = server:system
+
+# Netgear Obri Router
+orbilogin.com = server:system
+
+# 斐讯 PHICOMM Router
+p.to = server:system
+phicomm.me = server:system
+
+# 迅雷路由
+peiluyou.com = server:system
+
+# Asus Router
+router.asus.com = server:system
+
+# Synology Router
+router.synology.com = server:system
+
+# Netgear Router
+routerlogin.net = server:system
+
+# Aurba Router
+setmeup.arubanetworks.com = server:system
+
+# Razer Sila Router
+sila.razer.com = server:system
+
+# 腾达 Tenda Router
+tendawifi.com = server:system
+
+# TP-Link Router
+tplinklogin.net = server:system
+tplinkwifi.net = server:system
+tplogin.cn = server:system
+
+# 中兴 ZTE Router
+zte.home = server:system
