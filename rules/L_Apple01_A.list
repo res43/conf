@@ -43,16 +43,16 @@ DOMAIN,appleid.cdn-apple.com
 ######################################################
 
 ## iCloud 服务
-
+# iCloud
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-livephotoskit.com
-DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,gc.apple.com
 # 包含setup.icloud.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud.apple.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,me.com
+DOMAIN-KEYWORD,cdn-apple.com
 DOMAIN-KEYWORD,icloud.com.akadns.net
 
 # iWork 文稿
