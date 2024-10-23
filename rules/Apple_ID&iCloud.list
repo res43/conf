@@ -30,7 +30,8 @@ DOMAIN-SUFFIX,iwork.apple.com
 DOMAIN-SUFFIX,mask-h2.icloud.com
 DOMAIN-SUFFIX,mask.icloud.com
 DOMAIN,mask-api.icloud.com
-# 他国 iCloud
+
+## 国家iCloud
 # 瑞士
 DOMAIN-SUFFIX,icloud.ch
 # 德国
