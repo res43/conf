@@ -97,6 +97,7 @@ DOMAIN-SUFFIX,icloud.jp
 # DOMAIN-SUFFIX,www-cdn.icloud.com.akadns.net
 # DOMAIN-SUFFIX,wwwicloud.com
 # DOMAIN-KEYWORD,icloud.com.akadns.net
+
 ## iCloudPrivateRelay
 # DOMAIN,mask-api.fe.apple-dns.net
 # DOMAIN,mask-t.apple-dns.net
