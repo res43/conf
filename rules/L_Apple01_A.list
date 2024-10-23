@@ -29,18 +29,106 @@ DOMAIN,xp.apple.com
 
 ######################################################
 
-## 验证服务器
+## Apple 账户
 
 # Apple 账户认证
 DOMAIN,gsa.apple.com
-DOMAIN-SUFFIX,appleid.apple.com
-
-# 登录认证
 DOMAIN,idmsa.apple.com
 
-# iCloud 服务
-DOMAIN,setup.icloud.com
+# “设置”和“系统偏好设置”中的 Apple 账户认证
+DOMAIN,account.apple.com
+DOMAIN,appleid.apple.com
+DOMAIN,appleid.cdn-apple.com
+
+######################################################
+
+## iCloud 服务
+
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,apple-livephotoskit.com
+DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,gc.apple.com
+# 包含setup.icloud.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud.apple.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,me.com
+DOMAIN-KEYWORD,icloud.com.akadns.net
+
+# iWork 文稿
+DOMAIN-SUFFIX,iwork.apple.com
+
+# iCloud 专用代理（iCloudPrivateRelay）
+DOMAIN-SUFFIX,mask-h2.icloud.com
+DOMAIN-SUFFIX,mask.icloud.com
+DOMAIN,mask-api.icloud.com
+
+## 国家iCloud
+# 瑞士
+DOMAIN-SUFFIX,icloud.ch
+# 德国
+DOMAIN-SUFFIX,icloud.de
+# 瑞典
+DOMAIN-SUFFIX,icloud.se
+# 法国
+DOMAIN-SUFFIX,icloud.fr
+# 日本
+DOMAIN-SUFFIX,icloud.jp
+
+## 不常用国家
+# 爱沙尼亚
+# DOMAIN-SUFFIX,icloud.ee
+# 芬兰
+# DOMAIN-SUFFIX,icloud.fi
+# 匈牙利
+# DOMAIN-SUFFIX,icloud.hu
+# 爱尔兰
+# DOMAIN-SUFFIX,icloud.ie
+# 冰岛
+# DOMAIN-SUFFIX,icloud.is
+# 拉脱维亚
+# DOMAIN-SUFFIX,icloud.lv
+# 阿曼
+# DOMAIN-SUFFIX,icloud.om
+# 葡萄牙
+# DOMAIN-SUFFIX,icloud.pt
+# 罗马尼亚
+# DOMAIN-SUFFIX,icloud.ro
+# 斯洛文尼亚
+# DOMAIN-SUFFIX,icloud.si
+# 斯洛伐克
+# DOMAIN-SUFFIX,icloud.sk
+# 越南
+# DOMAIN-SUFFIX,icloud.vn
+
+## 不明
+# DOMAIN-SUFFIX,applemx-icloud.com
+# DOMAIN-SUFFIX,icloud-isupport.com
+# DOMAIN-SUFFIX,icloud.org
+# DOMAIN-SUFFIX,icloudads.net
+# DOMAIN-SUFFIX,icloudbox.net
+# DOMAIN-SUFFIX,icloudbrowser.net
+# DOMAIN-SUFFIX,icloude.com
+# DOMAIN-SUFFIX,icloudhome.com
+# DOMAIN-SUFFIX,icloudmail.net
+# DOMAIN-SUFFIX,icloudmusic.net
+# DOMAIN-SUFFIX,icloudnet.net
+# DOMAIN-SUFFIX,icloudo.com
+# DOMAIN-SUFFIX,icloudo.de
+# DOMAIN-SUFFIX,icloudo.net
+# DOMAIN-SUFFIX,icloudos.de
+# DOMAIN-SUFFIX,icloudos.net
+# DOMAIN-SUFFIX,icloudpay.net
+# DOMAIN-SUFFIX,icloudsecure.net
+# DOMAIN-SUFFIX,icloudsetup.com
+# DOMAIN-SUFFIX,ios-icloud.com
+# DOMAIN-SUFFIX,myicloud.net
+# DOMAIN-SUFFIX,mylcloud.net
+# DOMAIN-SUFFIX,wwwicloud.com
+## iCloudPrivateRelay
+# DOMAIN,mask-api.fe.apple-dns.net
+# DOMAIN,mask-t.apple-dns.net
+# DOMAIN,mask.apple-dns.net
 
 ######################################################
 
@@ -62,22 +150,16 @@ DOMAIN-SUFFIX,sonos-music.apple.com
 # Configuration
 DOMAIN,configuration.apple.com
 
-# Others
-DOMAIN-SUFFIX,aaplimg.com
-DOMAIN-SUFFIX,apple.co
-DOMAIN-SUFFIX,itunes.com
-DOMAIN-SUFFIX,apple
+# Weather
 DOMAIN,weather-analytics-events.apple.com
 
-# iCloud 上传和下载
-DOMAIN-SUFFIX,icloud-content.com
-DOMAIN-SUFFIX,me.com
-DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,apple-cloudkit.com
-
+## 不明
+# DOMAIN-SUFFIX,aaplimg.com
+# DOMAIN-SUFFIX,apple.co
+# DOMAIN-SUFFIX,itunes.com
+# DOMAIN-SUFFIX,apple
 # Mac OS 的 App Store 服务器
-DOMAIN-SUFFIX,swscan.apple.com
-DOMAIN-SUFFIX,swquery.apple.com
+# DOMAIN-SUFFIX,swscan.apple.com
+# DOMAIN-SUFFIX,swquery.apple.com
 
 ######################################################
