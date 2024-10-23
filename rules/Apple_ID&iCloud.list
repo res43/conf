@@ -1,5 +1,5 @@
 # NAME: Apple ID & iCloud
-# UPDATED: 2024-10-22
+# UPDATED: 2024-10-23
 
 ##################################################
 
@@ -31,28 +31,47 @@ DOMAIN-SUFFIX,mask-h2.icloud.com
 DOMAIN-SUFFIX,mask.icloud.com
 DOMAIN,mask-api.icloud.com
 # 他国 iCloud
+# 瑞士
 DOMAIN-SUFFIX,icloud.ch
+# 德国
 DOMAIN-SUFFIX,icloud.de
-DOMAIN-SUFFIX,icloud.ee
-DOMAIN-SUFFIX,icloud.fi
-DOMAIN-SUFFIX,icloud.fr
-DOMAIN-SUFFIX,icloud.hu
-DOMAIN-SUFFIX,icloud.ie
-DOMAIN-SUFFIX,icloud.is
-DOMAIN-SUFFIX,icloud.jp
-DOMAIN-SUFFIX,icloud.lv
-DOMAIN-SUFFIX,icloud.om
-DOMAIN-SUFFIX,icloud.org
-DOMAIN-SUFFIX,icloud.pt
-DOMAIN-SUFFIX,icloud.ro
+# 瑞典
 DOMAIN-SUFFIX,icloud.se
-DOMAIN-SUFFIX,icloud.si
-DOMAIN-SUFFIX,icloud.sk
-DOMAIN-SUFFIX,icloud.vn
+# 法国
+DOMAIN-SUFFIX,icloud.fr
+# 日本
+DOMAIN-SUFFIX,icloud.jp
+
+## 不常用国家
+# 爱沙尼亚
+# DOMAIN-SUFFIX,icloud.ee
+# 芬兰
+# DOMAIN-SUFFIX,icloud.fi
+# 匈牙利
+# DOMAIN-SUFFIX,icloud.hu
+# 爱尔兰
+# DOMAIN-SUFFIX,icloud.ie
+# 冰岛
+# DOMAIN-SUFFIX,icloud.is
+# 拉脱维亚
+# DOMAIN-SUFFIX,icloud.lv
+# 阿曼
+# DOMAIN-SUFFIX,icloud.om
+# 葡萄牙
+# DOMAIN-SUFFIX,icloud.pt
+# 罗马尼亚
+# DOMAIN-SUFFIX,icloud.ro
+# 斯洛文尼亚
+# DOMAIN-SUFFIX,icloud.si
+# 斯洛伐克
+# DOMAIN-SUFFIX,icloud.sk
+# 越南
+# DOMAIN-SUFFIX,icloud.vn
 
 ## 不明
 # DOMAIN-SUFFIX,applemx-icloud.com
 # DOMAIN-SUFFIX,icloud-isupport.com
+# DOMAIN-SUFFIX,icloud.org
 # DOMAIN-SUFFIX,icloudads.net
 # DOMAIN-SUFFIX,icloudbox.net
 # DOMAIN-SUFFIX,icloudbrowser.net
