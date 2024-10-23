@@ -31,7 +31,7 @@ USER-AGENT,com.apple.tv*
 
 ##################################################
 
-##【Apple News】会检测运营商信息
+##【Apple News】会检测运营商信息。流量下随时可能失效……
 # 导致自带地图应用变成国外 TOMTOM 版的数据
 DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,news-client-search.apple.com
