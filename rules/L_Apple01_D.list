@@ -72,6 +72,7 @@ DOMAIN-SUFFIX,apzones.com
 DOMAIN-SUFFIX,icloud.com.cn
 
 ## 中国。苹果域名
+DOMAIN,api.smoot.apple.cn
 DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-KEYWORD,-cn.apple.com
 
