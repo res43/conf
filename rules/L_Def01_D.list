@@ -2,10 +2,17 @@
 # AUTHOR: res43
 # UPDATED: 2024-10-23
 # REFERENCE: https://support.apple.com/zh-cn/101555
+# 策略：直连
+
+##################################################
 
 DOMAIN,ad.10010.com
 DOMAIN,ad.12306.cn
 DOMAIN,analytics.95516.com
+
+##################################################
+
+##【待定】
 # DOMAIN,cdn.jsdelivr.net
 # DOMAIN,clientservices.googleapis.com
 # DOMAIN,deo.shopeemobile.com
@@ -22,3 +29,5 @@ DOMAIN,analytics.95516.com
 # DOMAIN-SUFFIX,digicert.com
 # DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
 # DOMAIN-KEYWORD,ctc.qzs.qzone.qq.com
+
+##################################################
