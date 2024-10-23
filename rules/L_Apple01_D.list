@@ -43,7 +43,6 @@ DOMAIN,downloaddispatch.itunes.apple.com
 # 域名
 # 包含了courier.push.apple.com
 DOMAIN-SUFFIX,push.apple.com
-DOMAIN-KEYWORD,push-apple.com.akadns.net
 # IPv4
 IP-CIDR,17.249.0.0/16
 IP-CIDR,17.252.0.0/16
@@ -64,6 +63,7 @@ DOMAIN,gdmf.apple.com
 ##【CN】
 ## CDN
 DOMAIN-SUFFIX,apple.com.w.cdngslb.com
+DOMAIN-KEYWORD,apple.com.akadns.net
 
 ## 中国。证书验证
 DOMAIN,ocsp.digicert.cn
