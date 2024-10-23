@@ -39,6 +39,11 @@ USER-AGENT,com.apple.news*
 
 ##################################################
 
+##【其他】
+DOMAIN-SUFFIX,apple-dns.net
+
+##################################################
+
 ##【待定】
 # DOMAIN,apple.comscoreresearch.com
 # DOMAIN,developer.apple.com
