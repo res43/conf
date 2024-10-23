@@ -137,6 +137,7 @@ DOMAIN-SUFFIX,icloud.jp
 # 推送服务器
 DOMAIN-SUFFIX,gateway.sandbox.push.apple.com
 DOMAIN-SUFFIX,gateway.push.apple.com
+DOMAIN-KEYWORD,push-apple.com.akadns.net
 
 ######################################################
 
