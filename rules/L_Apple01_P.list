@@ -16,9 +16,9 @@ USER-AGENT,com.apple.trustd*
 ##################################################
 
 ##【iCloudPrivateRelay】iCloud 专用代理
+DOMAIN,mask-api.icloud.com
 DOMAIN-SUFFIX,mask-h2.icloud.com
 DOMAIN-SUFFIX,mask.icloud.com
-DOMAIN,mask-api.icloud.com
 
 ##################################################
 
@@ -57,9 +57,9 @@ DOMAIN-SUFFIX,apple-dns.net
 ##################################################
 
 ##【待定】
-# DOMAIN-SUFFIX,appsto.re
-# DOMAIN-SUFFIX,blobstore.apple.com
 # DOMAIN,docs-assets.developer.apple.com
 # DOMAIN,lookup-api.apple.com
+# DOMAIN-SUFFIX,appsto.re
+# DOMAIN-SUFFIX,blobstore.apple.com
 
 ##################################################
