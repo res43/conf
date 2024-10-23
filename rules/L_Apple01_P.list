@@ -56,7 +56,6 @@ DOMAIN-SUFFIX,apple-dns.net
 ##################################################
 
 ##【待定】
-# DOMAIN,developer.apple.com
 # DOMAIN,docs-assets.developer.apple.com
 # DOMAIN,lookup-api.apple.com
 # DOMAIN,testflight.apple.com
