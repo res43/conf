@@ -1,7 +1,10 @@
 # NAME: Apple Direct
-# UPDATED: 2024-10-22
+# UPDATED: 2024-10-23
+
+##################################################
 
 ##【Apple Global CDN】
+
 ## iOS App Store
 DOMAIN,iosapps.itunes.apple.com
 USER-AGENT,com.apple.appstored*
@@ -36,16 +39,19 @@ DOMAIN,downloaddispatch.itunes.apple.com
 ##################################################
 
 ## 推送通知
-# 域名
+
+## 域名
 # 包含了courier.push.apple.com
 DOMAIN-KEYWORD,push.apple.com
-# IPv4
+
+## IPv4
 IP-CIDR,17.249.0.0/16
 IP-CIDR,17.252.0.0/16
 IP-CIDR,17.57.144.0/22
 IP-CIDR,17.188.128.0/18
 IP-CIDR,17.188.20.0/23
-# IPv6
+
+## IPv6
 IP-CIDR6,2620:149:a44::/48
 IP-CIDR6,2403:300:a42::/48
 IP-CIDR6,2403:300:a51::/48
@@ -53,15 +59,24 @@ IP-CIDR6,2a01:b740:a42::/48
 
 ##################################################
 
+## 常用Apple域名。目前收集。
+
+# 供 MDM 服务器用来识别使用“被管理的软件更新”的设备有哪些可用的软件更新
+DOMAIN,gdmf.apple.com
+
+##################################################
+
 ##【CN】
-# 中国大陆的 iCloud 服务
+
+## 中国大陆的 iCloud 服务
 DOMAIN-SUFFIX,apzones.com
 DOMAIN-SUFFIX,icloud.com.cn
-# Other
+
+## Other
 DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-KEYWORD,-cn.apple.com
 
-## 不明
+## 不明。暂删除。
 # iCloud CN
 # DOMAIN-SUFFIX,apple-icloud.cn
 # DOMAIN-SUFFIX,icloud-apple.cn
