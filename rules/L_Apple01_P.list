@@ -31,10 +31,21 @@ USER-AGENT,com.apple.tv*
 
 ##################################################
 
-#【Apple News】
+##【Apple News】
 DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,news-client-search.apple.com
 USER-AGENT,AppleNews*
 USER-AGENT,com.apple.news*
+
+##################################################
+
+##【待定】
+# DOMAIN,apple.comscoreresearch.com
+# DOMAIN,developer.apple.com
+# DOMAIN,docs-assets.developer.apple.com
+# DOMAIN,lookup-api.apple.com
+# DOMAIN,testflight.apple.com
+# DOMAIN-SUFFIX,appsto.re
+# DOMAIN-SUFFIX,blobstore.apple.com
 
 ##################################################
