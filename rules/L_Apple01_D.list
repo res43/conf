@@ -1,10 +1,10 @@
 # NAME: Apple Direct
 # UPDATED: 2024-10-23
+# 策略：直连
 
 ##################################################
 
 ##【Apple Global CDN】
-
 ## iOS App Store
 DOMAIN,iosapps.itunes.apple.com
 USER-AGENT,com.apple.appstored*
@@ -39,7 +39,6 @@ DOMAIN,downloaddispatch.itunes.apple.com
 ##################################################
 
 ##【设备管理】
-
 ## 推送通知
 # 域名
 # 包含了courier.push.apple.com
@@ -83,7 +82,7 @@ DOMAIN-KEYWORD,-cn.apple.com
 
 ##################################################
 
-##【不明】暂删除。
+##【待定】
 # iCloud CN
 # DOMAIN-SUFFIX,apple-icloud.cn
 # DOMAIN-SUFFIX,icloud-apple.cn
