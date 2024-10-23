@@ -1,1 +1,77 @@
+######################################################
 
+## 一些 com.apple.appstored* 会连接的 API（优先级高）
+
+# Siri 和听写请求
+DOMAIN,guzzoni.apple.com
+
+# 商店内容，如 App、图书和音乐
+DOMAIN-SUFFIX,apps.apple.com
+DOMAIN-SUFFIX,itunes-apple.com.akadns.net
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-KEYWORD,buy.itunes.apple.com
+# DOMAIN,api-edge.apps.apple.com
+# DOMAIN,api.apps.apple.com
+# DOMAIN,apps.apple.com
+# DOMAIN,bag.itunes.apple.com
+# DOMAIN,beta.music.apple.com
+# DOMAIN,play.itunes.apple.com
+# DOMAIN,se-edge.itunes.apple.com
+# DOMAIN,se.itunes.apple.com
+# DOMAIN,su.itunes.apple.com
+# DOMAIN,upp.itunes.apple.com
+
+# 涉及软件更新的域名
+DOMAIN,xp.apple.com
+
+######################################################
+
+## 验证服务器
+
+# iCloud 服务
+DOMAIN,setup.icloud.com
+DOMAIN-SUFFIX,gc.apple.com
+
+# Apple账户认证
+DOMAIN,gsa.apple.com
+DOMAIN-SUFFIX,appleid.apple.com
+
+######################################################
+
+# 推送服务器
+DOMAIN-SUFFIX,gateway.sandbox.push.apple.com
+DOMAIN-SUFFIX,gateway.push.apple.com
+
+######################################################
+
+## 其他
+
+# iMessage
+DOMAIN-SUFFIX,ess.apple.com
+
+# Apple Music
+DOMAIN-SUFFIX,music.apple.com
+DOMAIN-SUFFIX,sonos-music.apple.com
+
+# Configuration
+DOMAIN,configuration.apple.com
+
+# Others
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,apple.co
+DOMAIN-SUFFIX,itunes.com
+DOMAIN-SUFFIX,apple
+DOMAIN,weather-analytics-events.apple.com
+
+# iCloud 上传和下载
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+
+# Mac OS 的 App Store 服务器
+DOMAIN-SUFFIX,swscan.apple.com
+DOMAIN-SUFFIX,swquery.apple.com
+
+######################################################
