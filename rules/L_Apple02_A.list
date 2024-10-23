@@ -1,5 +1,6 @@
 # NAME: Apple API
 # UPDATED: 2024-10-23
+# 策略：Apple
 
 ######################################################
 
@@ -103,7 +104,7 @@ DOMAIN-SUFFIX,icloud.jp
 # 越南
 # DOMAIN-SUFFIX,icloud.vn
 
-## 不明
+##【待定】
 # DOMAIN-SUFFIX,applemx-icloud.com
 # DOMAIN-SUFFIX,icloud-isupport.com
 # DOMAIN-SUFFIX,icloud.org
@@ -161,7 +162,7 @@ DOMAIN,testflight.apple.com
 # DOMAIN-SUFFIX,gateway.push.apple.com
 # DOMAIN-KEYWORD,push-apple.com.akadns.net
 
-##【不明】
+##【待定】
 # DOMAIN-SUFFIX,aaplimg.com
 # DOMAIN-SUFFIX,apple.co
 # DOMAIN-SUFFIX,itunes.com
