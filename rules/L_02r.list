@@ -48,6 +48,7 @@ DOMAIN,events.hotjar.io
 DOMAIN,identify.hotjar.com
 DOMAIN,insights.hotjar.com
 DOMAIN,script.hotjar.com
+DOMAIN,static.hotjar.com
 DOMAIN,surveys.hotjar.com
 # MouseFlow
 DOMAIN,api.mouseflow.com
