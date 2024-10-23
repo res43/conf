@@ -1,3 +1,6 @@
+# NAME: Apple API
+# UPDATED: 2024-10-23
+
 ######################################################
 
 ## 一些 com.apple.appstored* 会连接的 API（优先级高）
@@ -28,13 +31,16 @@ DOMAIN,xp.apple.com
 
 ## 验证服务器
 
+# Apple 账户认证
+DOMAIN,gsa.apple.com
+DOMAIN-SUFFIX,appleid.apple.com
+
+# 登录认证
+DOMAIN,idmsa.apple.com
+
 # iCloud 服务
 DOMAIN,setup.icloud.com
 DOMAIN-SUFFIX,gc.apple.com
-
-# Apple账户认证
-DOMAIN,gsa.apple.com
-DOMAIN-SUFFIX,appleid.apple.com
 
 ######################################################
 
