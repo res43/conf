@@ -12,7 +12,7 @@ DOMAIN,ocsp.apple.com
 DOMAIN,ocsp2.apple.com
 DOMAIN,valid.apple.com
 DOMAIN-SUFFIX,digicert.com
-USER-AGENT,com.apple.trustd*
+# USER-AGENT,com.apple.trustd*
 
 ##################################################
 
