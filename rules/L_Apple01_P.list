@@ -32,6 +32,7 @@ USER-AGENT,com.apple.tv*
 ##################################################
 
 ##【Apple News】
+# 导致自带地图应用变成国外 TOMTOM 版的数据
 DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,news-client-search.apple.com
 USER-AGENT,AppleNews*
