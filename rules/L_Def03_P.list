@@ -1,6 +1,9 @@
 # NAME: 03Proxy
 # AUTHOR: res43
 # UPDATED: 2024-10-23
+# 策略：代理
+
+##################################################
 
 # 软件相关
 DOMAIN,netnewswire.blog
@@ -13,15 +16,4 @@ DOMAIN-SUFFIX,portablesubmarines.com
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,surge-activation.com
 
-# 网站博客
-DOMAIN,blog.skk.moe
-DOMAIN,decohack.com
-DOMAIN,happyxiao.com
-DOMAIN,iui.su
-DOMAIN,iyideng.net
-DOMAIN,www.jkg.tw
-DOMAIN,www.logcg.com
-DOMAIN,www.simaek.com
-DOMAIN-SUFFIX,freedidi.com
-DOMAIN-SUFFIX,limbopro.com
-DOMAIN-SUFFIX,v2ex.com
+##################################################
