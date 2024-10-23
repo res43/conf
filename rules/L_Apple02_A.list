@@ -158,6 +158,9 @@ DOMAIN,weather-analytics-events.apple.com
 # Developer
 DOMAIN,developer.apple.com
 
+# Testflight
+DOMAIN,testflight.apple.com
+
 ## 不明
 # DOMAIN-SUFFIX,aaplimg.com
 # DOMAIN-SUFFIX,apple.co
