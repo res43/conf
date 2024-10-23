@@ -12,3 +12,10 @@ USER-AGENT,AppleTV*
 USER-AGENT,com.apple.tv*
 
 ##################################################
+
+##【iCloudPrivateRelay】iCloud 专用代理
+DOMAIN-SUFFIX,mask-h2.icloud.com
+DOMAIN-SUFFIX,mask.icloud.com
+DOMAIN,mask-api.icloud.com
+
+##################################################
