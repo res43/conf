@@ -33,6 +33,8 @@ DOMAIN,xp.apple.com
 
 # macOS 更新
 DOMAIN-SUFFIX,swscan.apple.com
+# 未查到
+DOMAIN-SUFFIX,swquery.apple.com
 
 # Xcode 可下载的组件
 DOMAIN,devimages-cdn.apple.com
@@ -168,8 +170,5 @@ DOMAIN,testflight.apple.com
 # DOMAIN-SUFFIX,apple.co
 # DOMAIN-SUFFIX,itunes.com
 # DOMAIN-SUFFIX,apple
-# Mac OS 的 App Store 服务器
-# DOMAIN-SUFFIX,swscan.apple.com
-# DOMAIN-SUFFIX,swquery.apple.com
 
 ######################################################
