@@ -31,6 +31,9 @@ DOMAIN-KEYWORD,buy.itunes.apple.com
 # 涉及软件更新的域名
 DOMAIN,xp.apple.com
 
+# macOS 更新
+DOMAIN-SUFFIX,swscan.apple.com
+
 # Xcode 可下载的组件
 DOMAIN,devimages-cdn.apple.com
 DOMAIN,download.developer.apple.com
