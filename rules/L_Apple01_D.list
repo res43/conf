@@ -10,19 +10,27 @@ DOMAIN,iosapps.itunes.apple.com
 USER-AGENT,com.apple.appstored*
 
 ## Mac App Store
+# macOS 恢复
 DOMAIN,oscdn.apple.com
+# 未查到
 DOMAIN,osxapps.itunes.apple.com
 # PROCESS-NAME,storedownloadd
 
 ## Update
+# iOS、iPadOS 和 watchOS 更新
 DOMAIN,appldnld.apple.com
-DOMAIN,supportdownload.apple.com
+# macOS 更新
 DOMAIN,swcdn.apple.com
+# 软件更新下载
 DOMAIN,updates-http.cdn-apple.com
+# 软件更新下载
 DOMAIN,updates.cdn-apple.com
+# 未查到
+DOMAIN,supportdownload.apple.com
 # DOMAIN,appldnld.apple.com.edgesuite.net
 
 ## App Store & iTunes Images
+# App 和图书
 DOMAIN-SUFFIX,mzstatic.com
 
 ## iTunes/Apple Music
@@ -55,13 +63,16 @@ IP-CIDR6,2403:300:a42::/48
 IP-CIDR6,2403:300:a51::/48
 IP-CIDR6,2a01:b740:a42::/48
 
-## 供 MDM 服务器用来识别使用“被管理的软件更新”的设备有哪些可用的软件更新
+## 软件更新目录
 DOMAIN,gdmf.apple.com
+## 托管软件更新目录
+DOMAIN,mesu.apple.com
 
 ##################################################
 
 ##【CN】
 ## CDN
+DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple.com.w.cdngslb.com
 DOMAIN-KEYWORD,apple.com.akadns.net
 
