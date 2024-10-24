@@ -44,21 +44,20 @@ DOMAIN,download.developer.apple.com
 
 ######################################################
 
-## Apple 账户
-
-# Apple 账户认证
+##【Apple 账户】
+## Apple 账户认证
 DOMAIN,gsa.apple.com
 DOMAIN,idmsa.apple.com
 
-# “设置”和“系统偏好设置”中的 Apple 账户认证
+## “设置”和“系统偏好设置”中的 Apple 账户认证
 DOMAIN,account.apple.com
 DOMAIN,appleid.apple.com
 DOMAIN,appleid.cdn-apple.com
 
 ######################################################
 
-## iCloud 服务
-# iCloud
+##【iCloud 服务】
+## iCloud
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-livephotoskit.com
 DOMAIN-SUFFIX,gc.apple.com
@@ -70,7 +69,7 @@ DOMAIN-SUFFIX,me.com
 DOMAIN-KEYWORD,cdn-apple.com
 DOMAIN-KEYWORD,icloud.com.akadns.net
 
-# iWork 文稿
+## iWork 文稿
 DOMAIN-SUFFIX,iwork.apple.com
 
 ## 国家iCloud
@@ -149,6 +148,8 @@ DOMAIN-SUFFIX,ess.apple.com
 # Apple Music
 DOMAIN-SUFFIX,music.apple.com
 DOMAIN-SUFFIX,sonos-music.apple.com
+# DOMAIN-SUFFIX,applemusic.com
+# DOMAIN-SUFFIX,blobstore.apple.com
 
 # Configuration
 DOMAIN,configuration.apple.com
