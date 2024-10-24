@@ -46,6 +46,14 @@ DOMAIN,downloaddispatch.itunes.apple.com
 
 ##################################################
 
+##【设备设置】
+## 供设备用来设置日期和时间
+DOMAIN,time-ios.apple.com
+DOMAIN,time.apple.com
+DOMAIN,time-macos.apple.com
+
+##################################################
+
 ##【设备管理】
 ## 推送通知
 # 域名
@@ -62,12 +70,6 @@ IP-CIDR6,2620:149:a44::/48
 IP-CIDR6,2403:300:a42::/48
 IP-CIDR6,2403:300:a51::/48
 IP-CIDR6,2a01:b740:a42::/48
-
-## 时间设定
-# 供设备用来设置日期和时间
-DOMAIN,time-ios.apple.com
-DOMAIN,time.apple.com
-DOMAIN,time-macos.apple.com
 
 ## 软件更新目录
 DOMAIN,gdmf.apple.com
