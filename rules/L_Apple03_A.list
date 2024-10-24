@@ -15,8 +15,6 @@ DOMAIN-SUFFIX,smoot.apple.com
 # 商店内容，如 App、图书和音乐
 DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,itunes.apple.com
-# 会被前面的直连规则覆盖
-# DOMAIN-SUFFIX,itunes-apple.com.akadns.net
 DOMAIN-KEYWORD,buy.itunes.apple.com
 # DOMAIN,api-edge.apps.apple.com
 # DOMAIN,api.apps.apple.com
@@ -28,6 +26,8 @@ DOMAIN-KEYWORD,buy.itunes.apple.com
 # DOMAIN,se.itunes.apple.com
 # DOMAIN,su.itunes.apple.com
 # DOMAIN,upp.itunes.apple.com
+# 会被前面的直连规则覆盖
+# DOMAIN-SUFFIX,itunes-apple.com.akadns.net
 
 # 涉及软件更新的域名
 DOMAIN,xp.apple.com
