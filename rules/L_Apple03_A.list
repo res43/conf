@@ -1,5 +1,5 @@
 # NAME: Apple API
-# UPDATED: 2024-10-23
+# UPDATED: 2024-10-24
 # 策略：Apple
 
 ######################################################
@@ -157,13 +157,11 @@ DOMAIN,testflight.apple.com
 
 ######################################################
 
+##【待定】
 # 推送服务器
 # DOMAIN-SUFFIX,gateway.sandbox.push.apple.com
 # DOMAIN-SUFFIX,gateway.push.apple.com
-# DOMAIN-KEYWORD,push-apple.com.akadns.net
-
-##【待定】
-# DOMAIN-SUFFIX,aaplimg.com
+## 其他
 # DOMAIN-SUFFIX,apple.co
 # DOMAIN-SUFFIX,itunes.com
 # DOMAIN-SUFFIX,apple
