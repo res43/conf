@@ -90,7 +90,6 @@ DOMAIN,weatherkit.apple.com
 
 ##【CN】
 ## CDN
-DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple.com.w.cdngslb.com
 DOMAIN-KEYWORD,apple.com.akadns.net
 
