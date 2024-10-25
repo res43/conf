@@ -142,6 +142,9 @@ DOMAIN-SUFFIX,icloud.jp
 ######################################################
 
 ##【其他】
+# Other
+DOMAIN-SUFFIX,aaplimg.com
+
 # iMessage
 DOMAIN-SUFFIX,ess.apple.com
 
