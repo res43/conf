@@ -1,5 +1,5 @@
 # NAME: Apple Direct
-# UPDATED: 2024-10-24
+# UPDATED: 2024-10-25
 # 策略：直连
 
 ##################################################
@@ -78,6 +78,13 @@ IP-CIDR6,2a01:b740:a42::/48
 DOMAIN,gdmf.apple.com
 ## 托管软件更新目录
 DOMAIN,mesu.apple.com
+
+##################################################
+
+##【Other】自己添加
+DOMAIN,iphone-ld.apple.com
+DOMAIN,pancake.apple.com
+DOMAIN,weatherkit.apple.com
 
 ##################################################
 
