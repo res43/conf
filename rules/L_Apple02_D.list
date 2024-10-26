@@ -1,5 +1,5 @@
 # NAME: Apple Direct
-# UPDATED: 2024-10-25
+# UPDATED: 2024-10-26
 # 策略：直连
 
 ##################################################
@@ -107,6 +107,16 @@ DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN,api.smoot.apple.cn
 DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-KEYWORD,-cn.apple.com
+
+##################################################
+
+##【自己添加】
+# 说明：传闻 iOS 18.1 中专门为中国用户做的特别代理。20241026，地址为自己推断。
+# SNI：a.tthr.apple.com
+# 128.0 ~ 255.255
+IP-CIDR,17.253.128.0/17,no-resolve
+# 0af0:0000:0000:0000:0000:0000 ~ 0aff:ffff:ffff:ffff:ffff:ffff
+IP-CIDR6,2620:149:0af0::/44,no-resolve
 
 ##################################################
 
