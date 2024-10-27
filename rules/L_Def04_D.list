@@ -16,10 +16,16 @@ IP-CIDR6,::1/128
 IP-CIDR6,fc00::/7,no-resolve
 IP-CIDR6,fe80::/10,no-resolve
 
-# 待定
+#【待定】删除
 # IP-CIDR,0.0.0.0/8,no-resolve
+# IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
+# IP-CIDR,169.254.0.0/16,DIRECT,no-resolve
 # IP-CIDR,192.0.0.0/24,DIRECT,no-resolve
+# IP-CIDR,192.0.2.0/24,DIRECT,no-resolve
+# IP-CIDR,192.88.99.0/24,DIRECT,no-resolve
 # IP-CIDR,198.18.0.0/15,DIRECT,no-resolve
+# IP-CIDR,198.51.100.0/24,DIRECT,no-resolve
+# IP-CIDR6,ff00::/8,DIRECT,no-resolve
 
 ##################################################
 
