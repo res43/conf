@@ -1,6 +1,6 @@
 # L和S的区别
 
-L，插件，后缀名`plugin`
+L，插件，后缀名`plugin`  
 S，模块，后缀名`sgmodule`
 
 ## Host
