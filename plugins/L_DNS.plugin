@@ -1,5 +1,5 @@
 #!name = 自定义DNS
-#!desc = 这是自用的DNS插件。实测：不用额外添加DNS解析，使用本地设置的即可。
+#!desc = 这是自用的DNS插件。
 #!author= res43
 #!date = 2024-10-27
 #!system = iOS,iPadOS,tvOS
@@ -108,8 +108,8 @@ zte.home = server:system
 
 ##################################################
 
-## 【指定DNS】
-# 配置里既可以写域名，也可以直接写地址。
+## 【Encrypted DNS】
+# 本地配置里DNS查询直接使用IPv4会更快
 # https://dns.alidns.com/dns-query
 dns.alidns.com = 223.5.5.5, 223.6.6.6, 2400:3200::1, 2400:3200:baba::1
 # https://doh.pub/dns-query
