@@ -109,7 +109,7 @@ zte.home = server:system
 ##################################################
 
 ## 【指定DNS】
-# 配置里可以直接写域名
+# 配置里既可以写域名，也可以直接写地址。
 # https://dns.alidns.com/dns-query
 dns.alidns.com = 223.5.5.5, 223.6.6.6, 2400:3200::1, 2400:3200:baba::1
 # https://doh.pub/dns-query
