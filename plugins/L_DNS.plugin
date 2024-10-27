@@ -8,6 +8,8 @@
 #!tag = DNS
 
 [Host]
+##################################################
+
 ##【IPv6】
 # IPv6 Localhost
 ip6-localhost = ::1
@@ -23,6 +25,8 @@ ip6-allnodes = ff02::1
 ip6-allrouters = ff02::2
 # IPv6 All Hosts
 ip6-allhosts = ff02::3
+
+##################################################
 
 ##【路由器】
 # M2M routers at MiFi Hotspot
@@ -101,8 +105,10 @@ tplogin.cn = server:system
 # 中兴 ZTE Router
 zte.home = server:system
 
+##################################################
 
 ## 【指定DNS】
+# 配置里可以直接写域名
 # https://dns.alidns.com/dns-query
 dns.alidns.com = 223.5.5.5, 223.6.6.6, 2400:3200::1, 2400:3200:baba::1
 # https://doh.pub/dns-query
@@ -125,3 +131,5 @@ dns64.dns.google = 2001:4860:4860::6464, 2001:4860:4860::64
 # dns.twnic.tw = 101.101.101.101, 2001:de4::101, 2001:de4::102
 # https://ordns.he.net/dns-query
 # ordns.he.net = 74.82.42.42, 2001:470:20::2
+
+##################################################
