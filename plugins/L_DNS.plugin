@@ -1,7 +1,7 @@
 #!name = 自定义DNS
 #!desc = 这是自用的DNS插件。实测：不用额外添加DNS解析，使用本地设置的即可。
 #!author= res43
-#!date = 2024-10-23
+#!date = 2024-10-27
 #!system = iOS,iPadOS,tvOS
 #!system_version = 15
 #!loon_version = 3.2.1(372)
@@ -100,3 +100,28 @@ tplogin.cn = server:system
 
 # 中兴 ZTE Router
 zte.home = server:system
+
+
+## 【指定DNS】
+# https://dns.alidns.com/dns-query
+dns.alidns.com = 223.5.5.5, 223.6.6.6, 2400:3200::1, 2400:3200:baba::1
+# https://doh.pub/dns-query
+doh.pub = 1.12.12.12, 120.53.53.53
+# dot.pub:853
+dot.pub = 1.12.12.12, 120.53.53.53
+# https://dns.google/dns-query
+dns.google = 8.8.8.8, 8.8.4.4, 2001:4860:4860::8888, 2001:4860:4860::8844
+# https://dns64.dns.google/dns-query
+dns64.dns.google = 2001:4860:4860::6464, 2001:4860:4860::64
+
+#【暂停】其他解析
+# 1dot1dot1dot1.cloudflare-dns.com:853
+# 1dot1dot1dot1.cloudflare-dns.com = 1.1.1.1, 1.0.0.1, 2606:4700:4700::1001, 2606:4700:4700::1111
+# one.one.one.one:853
+# one.one.one.one = 1.1.1.1, 1.0.0.1, 2606:4700:4700::1001, 2606:4700:4700::1111
+# https://cloudflare-dns.com/dns-query
+# cloudflare-dns.com = 104.16.249.249, 104.16.248.249, 2606:4700::6810:f8f9, 2606:4700::6810:f9f9
+# https://dns.twnic.tw/dns-query
+# dns.twnic.tw = 101.101.101.101, 2001:de4::101, 2001:de4::102
+# https://ordns.he.net/dns-query
+# ordns.he.net = 74.82.42.42, 2001:470:20::2
