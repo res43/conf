@@ -2,3 +2,133 @@
 #!desc=这是自用的DNS插件。实测：不用额外添加DNS解析，使用本地设置的即可。
 #!category=自定义
 #!date = 2024-10-27
+
+##################################################
+##################################################
+
+[Host]
+##【IPv6】
+# IPv6 Localhost
+ip6-localhost = ::1
+# IPv6 Loopback
+ip6-loopback = ::1
+# IPv6 Link-Local
+ip6-localnet = fe00::0
+# IPv6 Multicast
+ip6-mcastprefix = ff00::0
+# IPv6 All Nodes
+ip6-allnodes = ff02::1
+# IPv6 All Routers
+ip6-allrouters = ff02::2
+# IPv6 All Hosts
+ip6-allhosts = ff02::3
+
+##################################################
+
+##【路由器】
+# M2M routers at MiFi Hotspot
+_hotspot_.m2m = server:syslib
+
+# Ubiquiti
+*.id.ui.direct = server:syslib
+unifi.local = server:syslib
+amplifi.lan = server:syslib
+
+# 迅捷 FAST Router
+falogin.cn = server:syslib
+
+# 极路由 HiWiFi Router
+hiwifi.com = server:syslib
+
+# csl Wi-Fi
+hotspot.cslwifi.com = server:syslib
+
+# Aurba Router
+instant.arubanetworks.com = server:syslib
+
+# 磊科 Netcore Router
+leike.cc = server:syslib
+
+# Linksys Router
+LinksysSmartWiFi.com = server:syslib
+www.LinksysSmartWiFi.com = server:syslib
+
+# 华为 Huawei Router
+mediarouter.home = server:syslib
+
+# 水星 MERCURY Router
+melogin.cn = server:syslib
+
+# 小米 Mi WiFi Router
+miwifi.com = server:syslib
+www.miwifi.com = server:syslib
+
+# Linksys Router
+myrouter.local = server:syslib
+
+# Netgear Obri Router
+orbilogin.com = server:syslib
+
+# 斐讯 PHICOMM Router
+p.to = server:syslib
+phicomm.me = server:syslib
+
+# 迅雷路由
+peiluyou.com = server:syslib
+
+# Asus Router
+router.asus.com = server:syslib
+
+# Synology Router
+router.synology.com = server:syslib
+
+# Netgear Router
+routerlogin.net = server:syslib
+
+# Aurba Router
+setmeup.arubanetworks.com = server:syslib
+
+# Razer Sila Router
+sila.razer.com = server:syslib
+
+# 腾达 Tenda Router
+tendawifi.com = server:syslib
+
+# TP-Link Router
+tplinklogin.net = server:syslib
+tplinkwifi.net = server:syslib
+tplogin.cn = server:syslib
+
+# 中兴 ZTE Router
+zte.home = server:syslib
+
+##################################################
+
+## 【Encrypted DNS】
+# 配置里既可以写域名，也可以直接写地址。
+# https://dns.alidns.com/dns-query
+dns.alidns.com = 223.5.5.5, 223.6.6.6, 2400:3200::1, 2400:3200:baba::1
+# https://doh.pub/dns-query
+doh.pub = 1.12.12.12, 120.53.53.53
+# dot.pub:853
+dot.pub = 1.12.12.12, 120.53.53.53
+# https://dns.google/dns-query
+dns.google = 8.8.8.8, 8.8.4.4, 2001:4860:4860::8888, 2001:4860:4860::8844
+# https://dns64.dns.google/dns-query
+dns64.dns.google = 2001:4860:4860::6464, 2001:4860:4860::64
+# one.one.one.one:853
+one.one.one.one = 1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001
+# dns.cloudflare.com
+dns.cloudflare.com = 1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001
+
+#【暂停】其他解析，未验证
+# 1dot1dot1dot1.cloudflare-dns.com:853
+# 1dot1dot1dot1.cloudflare-dns.com = 1.1.1.1, 1.0.0.1, 2606:4700:4700::1001, 2606:4700:4700::1111
+# https://cloudflare-dns.com/dns-query
+# cloudflare-dns.com = 104.16.249.249, 104.16.248.249, 2606:4700::6810:f8f9, 2606:4700::6810:f9f9
+# https://dns.twnic.tw/dns-query
+# dns.twnic.tw = 101.101.101.101, 2001:de4::101, 2001:de4::102
+# https://ordns.he.net/dns-query
+# ordns.he.net = 74.82.42.42, 2001:470:20::2
+##################################################
+##################################################
