@@ -1,23 +1,23 @@
 # NAME: 03Proxy
 # AUTHOR: res43
 # UPDATED: 2024-10-28
-# 策略：代理
+# 策略：代理。RULE-SET
 
 ##################################################
 
 # 软件相关
-jmssub.net
-netnewswire.blog
-obsidian.md
-rsshub.app
-v2sub.com
-.jamjams.net
-.jamjams3.net
-.jjcruises.com
-.nssurge.com
-.portablesubmarines.com
-.surge-activation.com
-.v2ray.cx
-.vercel.app
+DOMAIN,jmssub.net
+DOMAIN,netnewswire.blog
+DOMAIN,obsidian.md
+DOMAIN,rsshub.app
+DOMAIN,v2sub.com
+DOMAIN-SUFFIX,jamjams.net
+DOMAIN-SUFFIX,jamjams3.net
+DOMAIN-SUFFIX,jjcruises.com
+DOMAIN-SUFFIX,nssurge.com
+DOMAIN-SUFFIX,portablesubmarines.com
+DOMAIN-SUFFIX,surge-activation.com
+DOMAIN-SUFFIX,v2ray.cx
+DOMAIN-SUFFIX,vercel.app
 
 ##################################################
