@@ -1,6 +1,6 @@
 # NAME: 02Reject
 # AUTHOR: res43
-# UPDATED: 2024-10-26
+# UPDATED: 2024-10-28
 # 策略：拒绝
 
 ##################################################
@@ -227,6 +227,7 @@ DOMAIN,metrics.mzstatic.com
 DOMAIN,notes-analytics-events.apple.com
 DOMAIN,securemetrics.apple.com
 DOMAIN,weather-analytics-events.apple.com
+DOMAIN,notes-analytics-events.apple.com
 
 # Samsung
 DOMAIN,analytics-api.samsunghealthcn.com
