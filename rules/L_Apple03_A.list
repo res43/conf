@@ -1,6 +1,12 @@
 # NAME: Apple API
-# UPDATED: 2024-10-24
+# UPDATED: 2024-10-28
 # 策略：Apple
+
+######################################################
+
+##【暂停】
+# Weather
+# DOMAIN,weather-analytics-events.apple.com
 
 ######################################################
 
@@ -158,9 +164,6 @@ DOMAIN-SUFFIX,sonos-music.apple.com
 
 # Configuration
 DOMAIN,configuration.apple.com
-
-# Weather
-DOMAIN,weather-analytics-events.apple.com
 
 # Developer
 DOMAIN,developer.apple.com
