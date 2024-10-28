@@ -33,6 +33,9 @@ IP-CIDR6,fe80::/10,no-resolve
 # 抖音-商城客服聊天
 DOMAIN,pigeon.snssdk.com
 
+# 中国移动
+DOMAIN,wap.cmpassport.com
+
 ##################################################
 
 ##【其他】
