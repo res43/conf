@@ -1,0 +1,244 @@
+# NAME: 02Reject
+# AUTHOR: res43
+# UPDATED: 2024-10-28
+# 策略：拒绝
+
+##################################################
+
+##【Ads】拒绝
+# Amazon
+adtago.s3.amazonaws.com
+advertising-api-eu.amazon.com
+advice-ads.s3.amazonaws.com
+affiliationjs.s3.amazonaws.com
+amazonaax.com
+analytics.s3.amazonaws.com
+analyticsengine.s3.amazonaws.com
+assoc-amazon.com
+
+# Google Ads
+adservice.google.com
+afs.googlesyndication.com
+pagead2.googleadservices.com
+pagead2.googlesyndication.com
+
+# Doubleclick.net
+ad.doubleclick.net
+m.doubleclick.net
+mediavisor.doubleclick.net
+static.doubleclick.net
+stats.g.doubleclick.net
+
+# Adcolony
+adc3-launch.adcolony.com
+ads30.adcolony.com
+events3alt.adcolony.com
+wd.adcolony.com
+
+# Media.net
+adservetx.media.net
+media.net
+static.media.net
+
+# FastClick
+fastclick.com
+
+##################################################
+
+##【Analytics】拒绝
+# Google Analytics
+analytics.google.com
+click.googleanalytics.com
+google-analytics.com
+ssl.google-analytics.com
+
+# Hotjar
+adm.hotjar.com
+careers.hotjar.com
+events.hotjar.io
+identify.hotjar.com
+insights.hotjar.com
+script.hotjar.com
+static.hotjar.com
+surveys.hotjar.com
+
+# MouseFlow
+api.mouseflow.com
+cdn-test.mouseflow.com
+cdn.mouseflow.com
+gtm.mouseflow.com
+mouseflow.com
+o2.mouseflow.com
+tools.mouseflow.com
+
+# FreshWorks
+claritybt.freshmarketer.com
+freshmarketer.com
+fwtracks.freshmarketer.com
+
+# Stats WP Plugin
+stats.wp.com
+
+# Luckyorange
+api.luckyorange.com
+cdn.luckyorange.com
+cs.luckyorange.net
+luckyorange.com
+realtime.luckyorange.com
+settings.luckyorange.net
+upload.luckyorange.net
+w1.luckyorange.com
+
+##################################################
+
+##【Error Trackers】拒绝
+# Bugsnag
+api.bugsnag.com
+app.bugsnag.com
+notify.bugsnag.com
+sessions.bugsnag.com
+
+# Sentry
+app.getsentry.com
+browser.sentry-cdn.com
+
+##################################################
+
+##【Social Trackers】拒绝
+# Facebook
+ads.facebook.com
+an.facebook.com
+pixel.facebook.com
+
+# Twitter
+ads-api.twitter.com
+advertising.twitter.com
+static.ads-twitter.com
+
+# LinkedIn
+ads.linkedin.com
+analytics.pointdrive.linkedin.com
+
+# Pinterest
+ads-dev.pinterest.com
+ads.pinterest.com
+analytics.pinterest.com
+log.pinterest.com
+trk.pinterest.com
+widgets.pinterest.com
+
+# Reddit
+ads.reddit.com
+d.reddit.com
+events.reddit.com
+events.redditmedia.com
+rereddit.com
+
+# YouTube
+ads.youtube.com
+
+# TikTok
+ads-api.tiktok.com
+ads-sg.tiktok.com
+ads.tiktok.com
+analytics-sg.tiktok.com
+analytics.tiktok.com
+business-api.tiktok.com
+log.byteoversea.com
+
+##################################################
+
+##【Mix】拒绝
+# Yahoo
+ads.yahoo.com
+ads.yap.yahoo.com
+adtech.yahooinc.com
+analytics.query.yahoo.com
+analytics.yahoo.com
+gemini.yahoo.com
+geo.yahoo.com
+global.adserver.yahoo.com
+log.fc.yahoo.com
+partnerads.ysm.yahoo.com
+udc.yahoo.com
+udcm.yahoo.com
+
+# Yandex
+adfox.yandex.ru
+adfstat.yandex.ru
+analytics.mobile.yandex.net
+appmetrica.yandex.ru
+extmaps-api.yandex.net
+metrika.yandex.ru
+offerwall.yandex.net
+yandexadexchange.net
+
+# Unity
+adserver.unityads.unity3d.com
+auction.unityads.unity3d.com
+config.unityads.unity3d.com
+webview.unityads.unity3d.com
+
+##################################################
+
+##【OEMs】拒绝
+# Realme
+bdapi-ads.realmemobile.com
+bdapi-in-ads.realmemobile.com
+iot-eu-logser.realme.com
+iot-logser.realme.com
+
+# OPPO
+adsfs.oppomobile.com
+adx.ads.oppomobile.com
+ck.ads.oppomobile.com
+data.ads.oppomobile.com
+
+# Xiaomi
+api.ad.xiaomi.com
+data.mistat.india.xiaomi.com
+data.mistat.intl.xiaomi.com
+data.mistat.rus.xiaomi.com
+data.mistat.xiaomi.com
+sdkconfig.ad.intl.xiaomi.com
+sdkconfig.ad.xiaomi.com
+tracking.india.miui.com
+tracking.rus.miui.com
+
+# OnePlus
+click.oneplus.cn
+open.oneplus.net
+
+# Huawei
+grs.hicloud.com
+logbak.hicloud.com
+logservice.hicloud.com
+logservice1.hicloud.com
+metrics-dra.dt.hicloud.com
+metrics.data.hicloud.com
+metrics2.data.hicloud.com
+
+# Apple
+api-adservices.apple.com
+books-analytics-events.apple.com
+iadsdk.apple.com
+metrics.icloud.com
+metrics.mzstatic.com
+notes-analytics-events.apple.com
+securemetrics.apple.com
+weather-analytics-events.apple.com
+
+# Samsung
+analytics-api.samsunghealthcn.com
+nmetrics.samsung.com
+samsung-com.112.2o7.net
+samsungadhub.com
+samsungads.com
+smetrics.samsung.com
+
+##################################################
+
+##【防止DNS泄露】拒绝
+# dns.weixin
+
+##################################################
