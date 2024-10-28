@@ -227,7 +227,6 @@ DOMAIN,metrics.mzstatic.com
 DOMAIN,notes-analytics-events.apple.com
 DOMAIN,securemetrics.apple.com
 DOMAIN,weather-analytics-events.apple.com
-DOMAIN,notes-analytics-events.apple.com
 
 # Samsung
 DOMAIN,analytics-api.samsunghealthcn.com
