@@ -7,4 +7,6 @@
 - S
   - [Rule]
   - 写法`RULE-SET,https://raw.githubusercontent.com/Cats-Team/AdRules/main/adrules.list,REJECT,extended-matching`
+    - `DOMAIN-SET`的清单里直接是网址。
+    - `RULE-SET`的清单里有`DOMAIN,`。
 
