@@ -1,6 +1,6 @@
 # NAME: 02Reject
 # AUTHOR: res43
-# UPDATED: 2024-10-28
+# UPDATED: 2024-10-29
 # 策略：拒绝
 
 ##################################################
@@ -221,12 +221,12 @@ DOMAIN,metrics2.data.hicloud.com
 # Apple
 DOMAIN,api-adservices.apple.com
 DOMAIN,books-analytics-events.apple.com
-DOMAIN,iadsdk.apple.com
 DOMAIN,metrics.icloud.com
 DOMAIN,metrics.mzstatic.com
 DOMAIN,notes-analytics-events.apple.com
 DOMAIN,securemetrics.apple.com
 DOMAIN,weather-analytics-events.apple.com
+DOMAIN-SUFFIX,iadsdk.apple.com
 
 # Samsung
 DOMAIN,analytics-api.samsunghealthcn.com
