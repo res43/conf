@@ -221,12 +221,12 @@ metrics2.data.hicloud.com
 # Apple
 api-adservices.apple.com
 books-analytics-events.apple.com
-iadsdk.apple.com
 metrics.icloud.com
 metrics.mzstatic.com
 notes-analytics-events.apple.com
 securemetrics.apple.com
 weather-analytics-events.apple.com
+.iadsdk.apple.com
 
 # Samsung
 analytics-api.samsunghealthcn.com
