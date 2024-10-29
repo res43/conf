@@ -1,0 +1,10 @@
+# NAME: Apple Proxy
+# UPDATED: 2024-10-29
+# 策略：代理。RULE-SET。
+
+##################################################
+
+# 进程（Mac）
+PROCESS-NAME,/Applications/iMazing.app/Contents/MacOS/iMazing
+
+##################################################
