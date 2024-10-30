@@ -4,6 +4,14 @@
 
 ##################################################
 
+##【软件更新】
+## 软件更新目录
+DOMAIN,gdmf.apple.com
+## 托管软件更新目录
+DOMAIN,mesu.apple.com
+
+##################################################
+
 # 进程（Mac）
 PROCESS-NAME,/Applications/iMazing.app/Contents/MacOS/iMazing
 
