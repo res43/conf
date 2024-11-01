@@ -16,6 +16,19 @@ otheve.beacon.qq.com
 # 分布式追踪和性能监控服务（帮助开发者快速定位和解决应用性能问题）
 .tpstelemetry.tencent.com
 
+# 其他
+ad.qq.com
+ad.qun.qq.com
+ad.tencentmusic.com
+astrategy.beacon.qq.com
+eventlog.beacon.qq.com
+tangram.e.qq.com
+sdk.e.qq.com
+
+## 阿里
+beacon-api.aliyuncs.com
+.log.aliyuncs.com
+
 ##################################################
 
 ##【Ads】拒绝
