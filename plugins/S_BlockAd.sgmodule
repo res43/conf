@@ -9,6 +9,7 @@
 
 [Rule]
 # URL-REGEX,^https?:\/\/(mangaapi|comicapi).(manhuaren|manhuashe).(com|net)\/.+\/(ad|ads)\/,REJECT
+# URL-REGEX,^https:\/\/obs\.line-scdn\.net\/0h.*\/m1280x720$,REJECT
 # DOMAIN-SUFFIX,bi.(manhuaren|manhuashe).(com|net),REJECT
 
 [MITM]
