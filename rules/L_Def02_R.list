@@ -1,7 +1,15 @@
 # NAME: 02Reject
 # AUTHOR: res43
-# UPDATED: 2024-10-29
+# UPDATED: 2024-11-01
 # 策略：拒绝
+
+##################################################
+
+## 腾讯
+DOMAIN,h.trace.qq.com
+DOMAIN-SUFFIX,beacon.qq.com
+DOMAIN-SUFFIX,adsmind.gdtimg.com
+DOMAIN-SUFFIX,tpstelemetry.tencent.com
 
 ##################################################
 
@@ -235,10 +243,5 @@ DOMAIN,samsung-com.112.2o7.net
 DOMAIN,samsungadhub.com
 DOMAIN,samsungads.com
 DOMAIN,smetrics.samsung.com
-
-##################################################
-
-##【防止DNS泄露】拒绝
-# DOMAIN,dns.weixin
 
 ##################################################
