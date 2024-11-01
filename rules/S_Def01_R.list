@@ -5,33 +5,6 @@
 
 ##################################################
 
-## 腾讯
-# 腾讯灯塔SDK，跟踪上报
-h.trace.qq.com
-oth.str.beacon.qq.com
-otheve.beacon.qq.com
-# 腾讯广告
-.adsmind.gdtimg.com
-.wxsnsencsvp.wxs.qq.com
-# 分布式追踪和性能监控服务（帮助开发者快速定位和解决应用性能问题）
-.tpstelemetry.tencent.com
-# 其他
-ad.qq.com
-ad.qun.qq.com
-ad.tencentmusic.com
-astrategy.beacon.qq.com
-eventlog.beacon.qq.com
-ios.bugly.qq.com
-sdk.e.qq.com
-tangram.e.qq.com
-.pgdt.gtimg.cn
-
-## 阿里
-beacon-api.aliyuncs.com
-.log.aliyuncs.com
-
-##################################################
-
 ##【Ads】拒绝
 # Amazon
 adtago.s3.amazonaws.com
