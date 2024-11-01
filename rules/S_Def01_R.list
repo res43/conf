@@ -1,7 +1,15 @@
 # NAME: 01Reject
 # AUTHOR: res43
-# UPDATED: 2024-10-29
+# UPDATED: 2024-11-01
 # 策略：拒绝。DOMAIN-SET
+
+##################################################
+
+## 腾讯
+h.trace.qq.com
+.beacon.qq.com
+.adsmind.gdtimg.com
+.tpstelemetry.tencent.com
 
 ##################################################
 
@@ -235,10 +243,5 @@ samsung-com.112.2o7.net
 samsungadhub.com
 samsungads.com
 smetrics.samsung.com
-
-##################################################
-
-##【防止DNS泄露】拒绝
-# dns.weixin
 
 ##################################################
