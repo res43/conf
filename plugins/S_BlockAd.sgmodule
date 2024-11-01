@@ -7,7 +7,12 @@
 ##################################################
 ##################################################
 
+[Rule]
+# URL-REGEX,^https?:\/\/(mangaapi|comicapi).(manhuaren|manhuashe).(com|net)\/.+\/(ad|ads)\/,REJECT
+# DOMAIN-SUFFIX,bi.(manhuaren|manhuashe).(com|net),REJECT
 
+[MITM]
+# hostname = %APPEND% a.line.me,
 
 ##################################################
 ##################################################
