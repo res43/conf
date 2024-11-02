@@ -1,11 +1,12 @@
 # NAME: 02Reject
 # AUTHOR: res43
-# UPDATED: 2024-11-01
+# UPDATED: 2024-11-02
 # 策略：拒绝
 
 ##################################################
+##################################################
 
-## Tencent
+## 腾讯Tencent
 # 腾讯灯塔SDK，跟踪上报
 DOMAIN,h.trace.qq.com
 DOMAIN,oth.str.beacon.qq.com
@@ -13,9 +14,10 @@ DOMAIN,otheve.beacon.qq.com
 # 腾讯广告
 DOMAIN-SUFFIX,adsmind.gdtimg.com
 DOMAIN-SUFFIX,wxsnsencsvp.wxs.qq.com
-# 分布式追踪和性能监控服务（帮助开发者快速定位和解决应用性能问题）
+# 腾讯分布式追踪和性能监控服务（帮助开发者快速定位和解决应用性能问题）
 DOMAIN-SUFFIX,tpstelemetry.tencent.com
 
+##################################################
 ##################################################
 
 ##【Ads】拒绝
