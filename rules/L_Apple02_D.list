@@ -1,0 +1,53 @@
+# NAME: Apple 02 Direct
+# UPDATED: 2024-11-02
+# 策略：直连
+
+##################################################
+
+## 推送通知
+# 域名
+DOMAIN-SUFFIX,push.apple.com
+# IPv4
+IP-CIDR,17.249.0.0/16
+IP-CIDR,17.252.0.0/16
+IP-CIDR,17.57.144.0/22
+IP-CIDR,17.188.128.0/18
+IP-CIDR,17.188.20.0/23
+# IPv6
+IP-CIDR6,2620:149:a44::/48
+IP-CIDR6,2403:300:a42::/48
+IP-CIDR6,2403:300:a51::/48
+IP-CIDR6,2a01:b740:a42::/48
+
+#【自己添加】传闻 iOS 18.1 中专门为中国用户做的特别代理。20241026，地址为自己推断。
+# SNI：a.tthr.apple.com。128.0 ~ 255.255
+IP-CIDR,17.253.128.0/17,no-resolve
+# 0af0:0000:0000:0000:0000:0000 ~ 0aff:ffff:ffff:ffff:ffff:ffff
+IP-CIDR6,2620:149:0af0::/44,no-resolve
+
+##################################################
+
+## 中国CN
+# Apple Maps。苹果地图（中国）：高德数据
+DOMAIN-SUFFIX,ls.apple.com
+
+# Apple Store Online。苹果商店（中国）
+DOMAIN-SUFFIX,store.apple.com
+
+# CDN（中国）
+DOMAIN-SUFFIX,apple.com.w.cdngslb.com
+DOMAIN-KEYWORD,apple.com.akadns.net
+
+# 证书验证（中国）
+DOMAIN,ocsp.digicert.cn
+
+# iCloud 相关服务（中国）
+DOMAIN-SUFFIX,apzones.com
+DOMAIN-SUFFIX,icloud.com.cn
+
+# 苹果相关域名（中国）
+DOMAIN,api.smoot.apple.cn
+DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-KEYWORD,-cn.apple.com
+
+##################################################
