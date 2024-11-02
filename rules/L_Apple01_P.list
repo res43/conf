@@ -1,5 +1,6 @@
 # NAME: Apple 01 Proxy
 # UPDATED: 2024-11-02
-# 策略：代理
+# 说明：优先级高的苹果服务。
+# 策略：代理。
 
 DOMAIN,apps.apple.com
