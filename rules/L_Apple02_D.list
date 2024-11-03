@@ -21,9 +21,11 @@ IP-CIDR6,2403:300:a51::/48
 IP-CIDR6,2a01:b740:a42::/48
 
 #【自己添加】传闻 iOS 18.1 中专门为中国用户做的特别代理。20241026，地址为自己推断。
-# SNI：a.tthr.apple.com。128.0 ~ 255.255
+# 域名。SNI：a.tthr.apple.com
+DOMAIN,a.tthr.apple.com
+# IP地址。128.0 ~ 255.255
 IP-CIDR,17.253.128.0/17,no-resolve
-# 0af0:0000:0000:0000:0000:0000 ~ 0aff:ffff:ffff:ffff:ffff:ffff
+# IP地址。0af0:0000:0000:0000:0000:0000 ~ 0aff:ffff:ffff:ffff:ffff:ffff
 IP-CIDR6,2620:149:0af0::/44,no-resolve
 
 ##################################################
