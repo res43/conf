@@ -11,6 +11,9 @@ DOMAIN,time.apple.com
 # 天气
 DOMAIN,weatherkit.apple.com
 
+
+DOMAIN-SUFFIX,aaplimg.com
+
 ##################################################
 
 ## 推送通知
