@@ -8,6 +8,8 @@
 ## 设备设置。新添加
 # 供设备用来设置日期和时间
 DOMAIN,time.apple.com
+# 天气
+DOMAIN,weatherkit.apple.com
 
 ##################################################
 
