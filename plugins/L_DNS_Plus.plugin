@@ -1,0 +1,11 @@
+#!name = DNS_Plus
+#!desc = 这是自用的DNS插件。
+#!author= res43
+#!date = 2024-11-04
+#!system = iOS,iPadOS,tvOS
+#!system_version = 15
+#!loon_version = 3.2.1(372)
+#!tag = DNS
+
+##################################################
+##################################################
