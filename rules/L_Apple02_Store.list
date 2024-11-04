@@ -1,0 +1,22 @@
+# NAME: Apple 02 Store
+# UPDATED: 2024-11-04
+# 说明：苹果软件商店。App Store
+# 策略：
+
+##################################################
+
+## Apple App Store
+# 商店内容，如 App、图书和音乐
+DOMAIN-SUFFIX,apps.apple.com
+# 商店内容，如 App、图书和音乐
+DOMAIN-SUFFIX,itunes.apple.com
+# 商店内容，如 App、图书和音乐，以及来自网站和替代市场的 App
+DOMAIN-SUFFIX,mzstatic.com
+
+##################################################
+
+##【待定】
+# 企业 App 验证
+# DOMAIN,ppq.apple.com
+
+##################################################
