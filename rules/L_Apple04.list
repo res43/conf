@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,ess.apple.com
 # Configuration
 DOMAIN,configuration.apple.com
 
+DOMAIN-SUFFIX,aaplimg.com
+
 ##################################################
 
 ## Apple Intelligence、Siri 和搜索
