@@ -4,3 +4,14 @@
 # 策略：
 
 ##################################################
+
+## Apple ID
+# “设置”和“系统偏好设置”中的 Apple 账户认证
+DOMAIN,account.apple.com
+DOMAIN,appleid.cdn-apple.com
+
+# Apple 账户认证
+DOMAIN,gsa.apple.com
+DOMAIN,idmsa.apple.com
+
+##################################################
