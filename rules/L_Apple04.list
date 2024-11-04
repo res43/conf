@@ -5,6 +5,14 @@
 
 ##################################################
 
+## 自己添加
+# iMessage
+DOMAIN-SUFFIX,ess.apple.com
+# Configuration
+DOMAIN,configuration.apple.com
+
+##################################################
+
 ## Apple Intelligence、Siri 和搜索
 # Siri 和听写请求
 DOMAIN,guzzoni.apple.com
