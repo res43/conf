@@ -7,5 +7,14 @@
 
 ## Apple Intelligence、Siri 和搜索
 # Siri 和听写请求
-guzzoni.apple.com
+DOMAIN,guzzoni.apple.com
+# 搜索服务，包括 Siri、聚焦、查询、Safari 浏览器、新闻、信息和音乐
+DOMAIN-SUFFIX,smoot.apple.com
+
+# 证书验证
+DOMAIN,certs.apple.com
+DOMAIN,ocsp.digicert.com
+DOMAIN,ocsp2.apple.com
+
+
 ##################################################
