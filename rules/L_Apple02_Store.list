@@ -15,7 +15,13 @@ DOMAIN-SUFFIX,mzstatic.com
 
 ##################################################
 
-##【待定】
+##【待定】新增
+# 软件更新目录
+DOMAIN,gdmf.apple.com
+# 托管软件更新目录
+DOMAIN,mesu.apple.com
+
+## 删除
 # 企业 App 验证
 # DOMAIN,ppq.apple.com
 
