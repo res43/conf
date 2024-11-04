@@ -1,12 +1,9 @@
-# NAME: 01Reject
+# NAME: 02Reject
 # AUTHOR: res43
-# UPDATED: 2024-11-01
+# UPDATED: 2024-11-05
 # 策略：拒绝。DOMAIN-SET
 
 ##################################################
-
-## HTTPDNS
-httpdns.kg.qq.com
 
 ## 腾讯
 # 腾讯灯塔SDK，跟踪上报
