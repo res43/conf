@@ -16,7 +16,7 @@ DOMAIN,certs.apple.com
 DOMAIN,ocsp.digicert.com
 DOMAIN,ocsp2.apple.com
 
-# 苹果其他
+# 苹果兜底
 DOMAIN-SUFFIX,apple.com
 
 ##################################################
