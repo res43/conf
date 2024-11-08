@@ -1,6 +1,6 @@
 # NAME: 02Reject
 # AUTHOR: res43
-# UPDATED: 2024-11-05
+# UPDATED: 2024-11-08
 # 策略：拒绝。DOMAIN-SET
 
 ##################################################
@@ -243,7 +243,11 @@ logservice.hicloud.com
 logservice1.hicloud.com
 metrics-dra.dt.hicloud.com
 metrics.data.hicloud.com
+metrics1.data.hicloud.com
 metrics2.data.hicloud.com
+metrics3.data.hicloud.com
+metrics4.data.hicloud.com
+metrics5.data.hicloud.com
 
 # Apple
 api-adservices.apple.com
