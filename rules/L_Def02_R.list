@@ -1,6 +1,6 @@
 # NAME: 02 Reject
 # AUTHOR: res43
-# UPDATED: 2024-11-02
+# UPDATED: 2024-11-08
 # 说明：广告、追踪列表。
 # 策略：拒绝。
 
@@ -230,7 +230,11 @@ DOMAIN,logservice.hicloud.com
 DOMAIN,logservice1.hicloud.com
 DOMAIN,metrics-dra.dt.hicloud.com
 DOMAIN,metrics.data.hicloud.com
+DOMAIN,metrics1.data.hicloud.com
 DOMAIN,metrics2.data.hicloud.com
+DOMAIN,metrics3.data.hicloud.com
+DOMAIN,metrics4.data.hicloud.com
+DOMAIN,metrics5.data.hicloud.com
 
 # Apple
 DOMAIN,api-adservices.apple.com
