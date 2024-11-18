@@ -1,5 +1,5 @@
 # NAME: Apple 03 Direct
-# UPDATED: 2024-11-04
+# UPDATED: 2024-11-18
 # 说明：苹果直连的服务。白名单。
 # 软件：S：RULE-SET。
 # 策略：直连。
@@ -18,16 +18,16 @@ DOMAIN,weatherkit.apple.com
 # 域名
 DOMAIN-SUFFIX,push.apple.com
 # IPv4
-IP-CIDR,17.249.0.0/16
-IP-CIDR,17.252.0.0/16
-IP-CIDR,17.57.144.0/22
-IP-CIDR,17.188.128.0/18
-IP-CIDR,17.188.20.0/23
+IP-CIDR,17.249.0.0/16,no-resolve
+IP-CIDR,17.252.0.0/16,no-resolve
+IP-CIDR,17.57.144.0/22,no-resolve
+IP-CIDR,17.188.128.0/18,no-resolve
+IP-CIDR,17.188.20.0/23,no-resolve
 # IPv6
-IP-CIDR6,2620:149:a44::/48
-IP-CIDR6,2403:300:a42::/48
-IP-CIDR6,2403:300:a51::/48
-IP-CIDR6,2a01:b740:a42::/48
+IP-CIDR6,2620:149:a44::/48,no-resolve
+IP-CIDR6,2403:300:a42::/48,no-resolve
+IP-CIDR6,2403:300:a51::/48,no-resolve
+IP-CIDR6,2a01:b740:a42::/48,no-resolve
 
 #【自己添加】传闻 iOS 18.1 中专门为中国用户做的特别代理。20241026，地址为自己推断。
 # 域名。SNI：a.tthr.apple.com
