@@ -62,4 +62,7 @@ DOMAIN,api.smoot.apple.cn
 DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-KEYWORD,-cn.apple.com
 
+# 苹果系统升级
+DOMAIN,updates.cdn-apple.com
+
 ##################################################
